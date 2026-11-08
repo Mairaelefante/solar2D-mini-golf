@@ -1,3 +1,11 @@
+![Solar2D Mini Golf](cover.svg)
+
+> **Solar2D · Lua · Game mechanics**
+
+**Area:** Game Development · [Browse project files](./)
+
+---
+
 # Solar2D Mini Golf Visible Fix
 
 Run this folder directly in Solar2D Simulator. `main.lua` and `config.lua` are at the project root.
